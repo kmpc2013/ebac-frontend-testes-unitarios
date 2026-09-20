@@ -2,7 +2,7 @@
 
 Aplicação simples de listagem e adição de tarefas, construída com **Next.js (App Router)** e **TypeScript**, com foco em Server Components, Server Actions, um hook personalizado e cobertura de testes unitários com **Jest** e **React Testing Library**.
 
-🔗 **Site publicado:** [em breve — link após o primeiro deploy] <!-- TODO: substituir pela URL da Vercel após o primeiro deploy -->
+🔗 **Site publicado:** https://ebac-frontend-testes-unitarios-2rtsdn82i.vercel.app/
 
 ## Pré-requisitos
 
